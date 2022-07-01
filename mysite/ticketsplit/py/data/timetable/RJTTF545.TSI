@@ -1,0 +1,42 @@
+AFK,SE,SN,6,(Ashford International)
+AFK,SN,SE,6,
+BAA,SN,SN,2,(Barnham)
+BCU,SW,XC,5,
+BCU,XC,SW,5,(Brockenhurst)
+BFR,SE,SE,5,(London Blackfriars)
+BFR,SE,TL,5,
+BFR,TL,SE,5,
+BMH,SW,SW,3,(Bournemouth)
+BTN,SN,SN,4,(Brighton)
+CLJ,SN,SN,5,(Clapham Junction)
+GLD,GW,GW,4,(Guildford)
+GTW,SE,SE,5,(Gatwick Airport)
+GTW,SE,SN,5,
+GTW,SN,SE,5,
+GTW,SN,SN,5,
+HHE,SN,XC,5,
+HHE,TL,XC,5,
+HHE,XC,SN,5,(Haywards Heath)
+HHE,XC,TL,5,
+LHD,SN,SN,4,(Leatherhead)
+LMS,CH,CH,3,(Leamington Spa)
+LTN,TL,TL,4,(Luton Airport Parkway)
+LUT,TL,TL,4,(Luton)
+PAR,GW,GW,5,(Par)
+POO,SW,SW,4,(Poole)
+RDH,SN,SN,3,(Redhill)
+SDN,SW,SW,3,(St.Denys)
+SER,GW,GW,5,(St.Erth)
+SOU,SN,SN,4,(Southampton Central)
+SOU,SN,SW,4,
+SOU,SW,SN,4,
+SOU,SW,SW,4,
+SUO,TL,TL,1,(Sutton)
+TUH,TL,TL,4,(Tulse Hill)
+VIC,SE,SE,10,(London Victoria)
+VIC,SE,SN,10,
+VIC,SN,SE,10,
+VIC,SN,SN,10,
+WIM,SN,SN,5,(Wimbledon)
+WIM,SN,TL,5,
+WIM,TL,SN,5,

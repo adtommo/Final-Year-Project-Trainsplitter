@@ -1,0 +1,58 @@
+body {
+	background-image: url("/static/img/spikes.png");
+	background-repeat: repeat;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}
+
+#dark-n{
+	background-color: #1E2032; 
+	height: 200px;
+}
+
+#block-c{
+	background-color: #1E2032;
+	align-self: center;
+	padding-top: 5%;
+}
+
+#load{
+	text-align: center;
+	width: 315.2px;
+	height: 280px;
+}
+
+#form{
+	outline: solid #4C8F97;
+	background-color: white;
+	visibility: visible;
+}
+#error{
+	color: white;
+}
+
+#title{
+	color: white;
+	text-align: center;
+}
+
+#refresh{
+	display: flex;
+	justify-content: center;
+}
+
+#refresh-b{
+	align-self: center;
+}
+
+#info{
+	background-color: white;
+	outline: solid #1E2032;
+}
+
+
+
+

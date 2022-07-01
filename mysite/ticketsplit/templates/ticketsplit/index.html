@@ -1,0 +1,117 @@
+{% extends 'ticketsplit/base.html' %}
+
+{% block title %} Home {% endblock %}
+
+
+{% block content %}
+{% if route == None %}
+<P id = title >Save money by spreading your rail journey across multiple tickets.
+Same journey, no difference, you just pay less.</P>
+<div id="load" class="container">
+
+  <form id = "form" action="/index/" method="post">
+   {% csrf_token %}
+   <label for="fro">Where from?</label><br>
+   <input maxlength="3" type="text" name="fro" class="form-control" placeholder="Station Code" required><br>
+   <label for="to">Where to?:</label><br>
+   <input maxlength="3" type="text" name="to" class="form-control" placeholder="Station Code" required><br>
+   <input class="btn btn-primary" onclick="on()" type="submit"></input>
+ </form>
+ {% if message != None %}
+ <h6 id="error">{{ message }}</h6>
+ {% endif %}
+</div>
+<p id="title">For more information on station codes: <a href="https://www.nationalrail.co.uk/stations_destinations/48541.aspx">Click here</a><p>
+  <p id="title">Split Train Tickets are allowed by the National Rail Conditions of Travel, so take advantage of this and you could pay a lot less than you otherwise would have for the same train tickets. For additional detailed information please follow the links in the menu bar above.<p>
+    <br>
+    {% endif %}
+    {% if route != None %}
+    <h3 id="title" >SPLIT CALCULATIONS</h3><br>
+    <div id="refresh">
+      <button id="refresh-b" class="btn btn-primary" onClick="window.location.href=window.location.href">Search again</button>
+    </div>
+    <br>
+    <div class="table-responsive">
+      <table class="table table-dark">
+        <thead>
+         <tr>
+          <th colspan="3">
+           <h3> Original Ticket</h3>
+         </th>
+       </tr>
+       <tr>
+        <th scope="col">From</th>
+        <th scope="col">To</th>
+        <th scope="col">Cost</th>
+      </tr>
+    </thead>
+    <tbody>
+     <tr>
+      <th scope="row">{{  origin }}</th>
+      <td>{{ dest }}</td>
+      <td>£{{ original_price }}</td>
+    </tr>
+    <tr>
+      <th scope="col" colspan="3">Map(From Green to Red)</th>
+    </tr>
+    <tr>
+      <td colspan="3"><img src="/static/img/original.png"></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+<div class="table-responsive">
+  <table class="table table-dark">
+    <thead>
+     <tr>
+      <th colspan="3">
+       <h3> Split Ticket</h3>
+     </th>
+   </tr>
+ </thead>
+ <tbody>
+  {% for key, value in each_point.items %}
+  <tr>
+    <th scope="col">From</th>
+    <th scope="col">To</th>
+    <th scope="col">Cost</th>
+  </tr>
+  <tr>
+    <td>{{ value.fro }}</td>
+    <td>{{ value.to }}</td>
+    <td>£{{ value.cost }}</td>
+  </tr>
+  <tr>
+    <th scope="col" colspan="3">Map(From Green to Red)</th>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="/static/img/{{ key }}map.png"></td>
+  </tr>
+  {% endfor %}
+  {% if split_cost != None%}
+  <tr>
+    <th colspan="4">TOTAL COST OF SPLIT: £{{split_cost}}</th>
+  </tr>
+  {% endif %}
+</tbody>
+</table>
+</div>
+{% endif %}
+
+<script>
+  function on() {
+    document.getElementById("form").style.visibility = "hidden";
+
+    document.getElementById("load").style.backgroundImage = "url('/static/img/load.gif')";
+    document.getElementById("load").style.backgroundRepeat = "no-repeat";
+    document.getElementById("load").style.backgroundAttachment = "fixed";
+    document.getElementById("load").style.backgroundPosition = "center";
+
+
+  }
+
+</script>
+
+{% endblock %}

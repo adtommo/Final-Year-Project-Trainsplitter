@@ -1,0 +1,148 @@
+/!! Start of file                                                               
+/!! Content type:  TOC                                                          
+/!! Sequence:      472                                                          
+/!! Records:       141                                                          
+/!! Generated:     04/02/2020                                                   
+/!! Exporter:      RJIS RjEhrFrs v 4.6.5                                        
+FANG  ANGLIA                        
+FATO  ATOC                          
+FCALCSSERCO CALEDONIAN SLEEPER.     
+FCRLXRTFL RAIL                      
+FCSV  USERS WITH CSV NEEDS ONLY (OR)
+FDBA  RSP                           
+FDCR  DEVON & CORNWALL RAILWAY      
+FFCCTLTHAMESLINK AND GT NORTHERN TL 
+FGCRGCGRAND CENTRAL RAILWAY         
+FGER  FIRST GREAT EASTERN           
+FGWAGWGWR ADVANCE                   
+FGWRGWGWR                           
+FGXRGXSOUTHERN GATWICK EXPRESS      
+FHEXHXHEATHROW EXPRESS              
+FHULHTHULL TRAINS                   
+FIECGRLONDON NORTH EASTERN RAILWAY  
+FIWCVTAVANTI WEST COAST             
+FIXCXCCROSSCOUNTRY                  
+FLBRLMWEST MIDLANDS TRAINS          
+FLERLEGREATER ANGLIA                
+FLRCLOLONDON OVERGROUND             
+FLTSCCC2C                           
+FLUL  LONDON UNDERGROUND LIMITED    
+FMML  MIDLAND MAIN LINE             
+FNCHCHCHILTERN RAILWAYS             
+FNIWILISLAND LINE LIMITED           
+FNLR  NORTH LONDON RAILWAY          
+FNOT  NOTTINGHAM SUPPORT BROWSE ONLY
+FNSCSNSOUTHERN                      
+FNSESELONDON SOUTH EASTERN RAILWY   
+FNTHNTNORTHERN                      
+FNTT  FIRST GREAT WESTERN LINK      
+FPGM  GREATER MANCHESTER PTE        
+FPLB  PLUSBUS                       
+FPMR  MERSEY PTE                    
+FPSC  STRATHCLYDE PTE               
+FPSY  SOUTH YORKSHIRE PTE           
+FPTW  TYNE & WEAR PTE               
+FPUB  PUBLICATIONS                  
+FPWM  WEST MIDLANDS PTE             
+FPWY  WEST YORKSHIRE PTE            
+FRCL  CENTRAL TRAINS LTD            
+FRCV  ARRIVA TRAINS WALES           
+FRMSMEMERSEYRAIL                    
+FRNE  ARRIVA TRAINS NORTHERN        
+FRNW  FIRST NORTH WEST              
+FRWBAWTRANSPORT FOR WALES RAIL      
+FRWW  WESSEX TRAINS                 
+FSCRSRSCOTRAIL                      
+FSCSCSSERCO CALEDONIAN SLEEPER      
+FSMAEMEAST MIDLANDS RAILWAY (ADV)   
+FSMREMEAST MIDLANDS RAILWAY         
+FSWTSWSOUTH WESTERN RAILWAY         
+FTAC  WATFORD TAAC FOR CSV FILE ONLY
+FTGNGNTHAMESLINK AND GT NORTHERN GN 
+FTLK  THAMESLINK                    
+FTPETPTRANSPENNINE EXPRESS          
+FWAB  WALES & BORDERS               
+FWGN  WAGN                          
+FWSM  WREXHAM SHROPSHIRE MARYLEBONE 
+FWSX  WESSEX TRAINS                 
+TAMARRIVA MERSEYRAIL                     N
+TANARRIVA NORTHERNSPIRIT                 N
+TARANGLIA RAILWAYS TRAIN SERVICES        N
+TAWTRANSPORT FOR WALES RAIL              Y
+TCCC2C                                   Y
+TCHCHILTERN RAILWAYS                     Y
+TCSSERCO CALEDONIAN SLEEPER              Y
+TCTCENTRAL TRAINS LTD.                   N
+TCXCONNEX RAIL                           N
+TDCDEVON AND CORNWALL RAILWAY            N
+TEMEAST MIDLANDS RAILWAY                 Y
+TEPEUROPEAN PASSENGER SERVICES           Y
+TESEUROSTAR UK LTD.                      Y
+TFCFIRST CAPITAL CONNECT                 N
+TGCGRAND CENTRAL RAILWAY                 Y
+TGEGREAT EASTERN RAILWAY LTD.            N
+TGLFIRST GREAT WESTERN LINK              N
+TGNTHAMESLINK AND GT NORTHERN GN         Y
+TGRLONDON NORTH EASTERN RAILWAY          Y
+TGWGWR                                   Y
+TGXSOUTHERN GATWICK EXPRESS              Y
+THCHEATHROW CONNECT                      Y
+THTHULL TRAINS                           Y
+THXHEATHROW EXPRESS                      Y
+TILISLAND LINE LIMITED                   Y
+TLEGREATER ANGLIA                        Y
+TLMWEST MIDLANDS TRAINS                  Y
+TLOLONDON OVERGROUND                     Y
+TLSLTS RAIL LTD.                         N
+TLTLONDON UNDERGROUND                    Y
+TMEMERSEYRAIL                            Y
+TMLMIDLAND MAIN LINE LTD.                N
+TNSNORTHERNSPIRIT LTD.                   N
+TNTNORTHERN                              Y
+TNWNORTH WEST REGIONAL RAILWAYS          N
+TPMPRE METRO OPERATIONS LTD              N
+TQACIE                                   Y
+TQBNIR                                   Y
+TQCCALEDONIAN MACBRAYNE                  Y
+TQDARGYLL FERRIES                        Y
+TQFFFESTINIOG RAILWAY                    N
+TQHHOVERTRAVEL                           Y
+TQIIRISH FERRIES                         Y
+TQKWIGHTLINK                             Y
+TQLLUL                                   N
+TQMIoMSPCo                               N
+TQNNS                                    N
+TQOCONDOR FERRIES                        Y
+TQRRED FUNNEL                            Y
+TQSSTENA LINE                            Y
+TQTSTAGECOACH BUS                        Y
+TQUFIRST GROUP BUS                       Y
+TQVARRIVA BUS                            Y
+TQWSWANSEA CORK FERRIES                  N
+TQXNEXUS METRO                           N
+TQYSTRATHCLYDE PTE                       N
+TQZNORTHLINK                             Y
+TREREGIONAL RAILWAYS NORTH EAST          N
+TSCCONNEX SOUTHCENTRAL LTD.              N
+TSELONDON SOUTH EASTERN RAILWY           Y
+TSGSWANAGE RAILWAYS                      Y
+TSNSOUTHERN                              Y
+TSRSCOTRAIL                              Y
+TSSSILVERLINK TRAIN SERVICES             N
+TSWSOUTH WESTERN RAILWAY                 Y
+TTLTHAMESLINK AND GT NORTHERN TL         Y
+TTPTRANSPENNINE EXPRESS                  Y
+TTTTHAMES TRAINS LTD.                    N
+TTWTYNE & WEAR METRO                     Y
+TVLCARDIFF RAILWAY CO. LTD.              N
+TVTAVANTI WEST COAST                     Y
+TWBWALES & BORDERS                       N
+TWEWESSEX                                N
+TWNWEST ANGLIA GREAT NORTHERN            N
+TWRWEST COAST RAILWAY CO                 N
+TWSWREXHAM SHROPSHIRE MARYLEBONE         N
+TWWSOUTH WALES & WEST RAILWAY LTD        N
+TXCCROSSCOUNTRY                          Y
+TXRTFL RAIL                              Y
+TZZOTHER OPERATOR                        Y
+/!! End of file (04/02/2020)
